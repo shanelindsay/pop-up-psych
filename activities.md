@@ -1,5 +1,5 @@
 # Summary of Science Activities
-This guide gathers grab-and-go psychology and neuroscience demonstrations for science fairs, open days, and classroom visits. Our principles are simple: spark curiosity, get everyone doing—not just watching—and then ground the wow-factor in rock-solid research. Each activity is safe, low-cost, and connects a striking illusion or measurement to a core idea about how minds and brains work in everyday life.
+This guide gathers grab-and-go psychology and neuroscience demonstrations for science fairs, open days, and classroom visits. Our principles are simple: spark curiosity, get everyone doing, not just watching, and then ground the wow-factor in rock-solid research. Each activity is safe, low-cost, and connects a striking illusion or measurement to a core idea about how minds and brains work in everyday life.
 
 Our approach is three pronged:
 1.	Invite them to take part

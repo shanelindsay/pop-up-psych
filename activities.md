@@ -82,11 +82,6 @@ Observe your brain going into rest mode. Close your eyes for 10 seconds, relax, 
 To correct for this, your brain uses adaptive plasticity, updating its internal model of how movement relates to the world. This involves the cerebellum and brain areas involved in vision and motor control.
 First studied in the 19th century (Stratton, 1896), this is a classic demonstration of how flexible our brains can be — a key idea in cognitive and developmental psychology. The principles of this adaptation are relevant to real-world applications, such as training for visuomotor rehabilitation in patients recovering from a stroke or brain injury.
 
-## Try This
-*	How many tries before you can accurately touch the target?
-*	Is your second go easier than your first?
-*	Why might some people adapt faster than others?
-
 # Upside-Down Goggles Activity (≈3 min, 1 participant, ★★☆)
 
 ## Requirements
@@ -287,7 +282,7 @@ Tell people you are going to ask a question and they should respond as quickly a
 
 **Set 4:**
 1.  Say the word BORK ten times…
-2.  What do you eat soup with? (Many will say "Folk" instead of "Spoon").
+2.  What do you eat soup with? (Many will say "Fork" instead of "Spoon").
 
 ## Explanation
 Semantic priming is a phenomenon in which exposure to one stimulus (the prime) influences a response to a subsequent stimulus (the target). In these examples, the priming questions or words activate related concepts in the brain, making an incorrect but related answer more accessible and likely to be said, especially when under pressure to answer quickly.

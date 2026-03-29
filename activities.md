@@ -87,7 +87,7 @@ First studied in the 19th century (Stratton, 1896), this is a classic demonstrat
 *	Is your second go easier than your first?
 *	Why might some people adapt faster than others?
 
-# Upside-Down Goggles Activity (≈3 min, 1 participant, ★★☆)
+# Upside-Down Goggles Activity (≈3 min, 1 participant)
 
 ## Requirements
 *	1 pair of upside-down (vertical-inverting) prism goggles
@@ -111,7 +111,7 @@ First studied in the 19th century (Stratton, 1896), this is a classic demonstrat
 *	Is your second go easier than your first?
 *	Why might some people adapt faster than others?
 
-# Spiral After-Effect Illusion (≈2 min, any group, ★☆☆)
+# Spiral After-Effect Illusion (≈2 min, any group)
 
 ## Requirements
 *	Electric drill and spiral attachment
@@ -125,7 +125,7 @@ Tell your volunteer that you are going to expand their mind. Hold a handheld ele
 This is a classic visual illusion, which relies on a phenomenon called motion after-effect. After staring at a waterfall - or a similar moving-yet-static object such as a rotating spiral - anything you look at afterwards will appear to be in motion in the opposite direction.
 A rotating spiral appears to be expanding or contracting depending on the direction of rotation. If you stare at the spiral and then avert your eyes, a stationary object will appear to be moving in the opposite rotation. This happens because in the visual nervous system there are cells that respond to specific directions of motion. So, when a person looks at an object moving downward such as a waterfall, that person's downward receptors are in action. Let's say he stares at the downward motion long enough for those cells to become fatigued and then looks at a stationary object, like the grassy hill. The grass will appear to be moving upwards. The upward receptors compensate for the fatigue of the downward receptors. This phenomenon is known as an after effect.
 
-# Hybrid Image Illusion (Einstein/Marilyn) (≈1 min, any group, ★☆☆)
+# Hybrid Image Illusion (Einstein/Marilyn) (≈1 min, any group)
 
 ## Requirements
 *	Einstein/Marilyn hybrid poster
@@ -139,7 +139,7 @@ Perhaps the most familiar example is one featuring Albert Einstein and Marilyn M
 
 An accompanying poster can show the separate high and low detail images that are combined to make the single face. 
 
-# Hollow Face Illusion (≈2 min, any group, ★☆☆)
+# Hollow Face Illusion (≈2 min, any group)
 
 ## Requirements
 *	Hollow face mask on a stand
@@ -152,7 +152,7 @@ According to Richard Gregory, "The strong visual bias of favouring seeing a holl
 Scientists have attempted to explain the illusion for centuries, but there is still much we don't know about how it works. Our visual system can use tools like binocular disparity and motion parallax to judge distance, but these techniques don't seem to work with the hollow mask until we're extremely close to it: for many people, nearer than three feet. The effect is diminished if the mask is turned upside-down, but it doesn't disappear; nearly everyone still sees the illusion.
 All this adds up to a fairly convincing argument that our perception of a face as a whole is what causes us to see the mask as convex, like a real face instead of a hollow shell. Our visual system is receiving a variety of different cues to depth of objects, and prioritizes them in ways that are usually quite accurate. But illusions such as the hollow face demonstrate that those priorities don't always work. Fortunately we don't see hollow masks nearly as often as real faces, so for the vast majority of our visual experience, our visual world seems just fine.
 
-# The Schema Mismatch Task (≈2 min, any group, ★☆☆)
+# The Schema Mismatch Task (≈2 min, any group)
 
 ## Requirements
 *	A selection of identical-looking jelly beans (e.g. from Beanboozled or similar)
@@ -179,7 +179,7 @@ Schemas are mental frameworks built from past experiences. They help us predict 
 But if it turns out to taste like chilli or soap, your prediction is violated — that's called a prediction error. This experience prompts your brain to re-evaluate its assumptions and, over time, update the schema.
 This kind of mismatch is central to how we learn, adapt, and make sense of the world. It's the same principle that underlies how children learn new word meanings, how adults change habits, and how we revise stereotypes.
 
-# McGurk Effect (≈2 min, any group, ★☆☆)
+# McGurk Effect (≈2 min, any group)
 
 ## Requirements
 *	TV /laptop/phone screen
@@ -194,7 +194,7 @@ The McGurk effect is a perceptual phenomenon that demonstrates an interaction be
 
 Example: https://www.youtube.com/watch?v=jUsC-psm_fI
 
-# Rubber Hand Illusion (≈5 min, 1 participant, ★★☆)
+# Rubber Hand Illusion (≈5 min, 1 participant)
 
 ## Requirements
 *	Rubber hand
@@ -219,7 +219,7 @@ When Botvinick and Cohen first demonstrated the illusion, they argued that visio
 
 **Demo Video:** [https://www.youtube.com/watch?v=sxwn1w7MJvk](https://www.youtube.com/watch?v=sxwn1w7MJvk)
 
-# Skin Conductance (Stress Detection) (≈4 min, 1 participant, ★★☆)
+# Skin Conductance (Stress Detection) (≈4 min, 1 participant)
 
 ## Instructions
 When holding the device, ensure the fingers on the same hand are not touching each other.
@@ -247,7 +247,7 @@ Psychologists use this data to explore individual stress responses, evaluate str
 ## Explanation
 The Thaumatrope is a Victorian toy constructed from a simple disk or card featuring a different picture on each side and attached to two pieces of string or a skewer. When the strings are twirled rapidly (or the skewer is spun between the hands), the card rotates on its axis and the two images appear to blend into one due to the persistence of vision.
 
-# The Stroop Effect (≈5 min, any group, ★☆☆)
+# The Stroop Effect (≈5 min, any group)
 
 ## Requirements
 *	Two word lists printed on a poster board:
@@ -267,7 +267,7 @@ An alternative is to have one list and first ask them to read the words, then on
 ## Explanation
 The Stroop effect demonstrates the interference in reaction time of a task. When the name of a color (e.g., "blue", "green", or "red") is printed in a color which is not denoted by the name (e.g., the word "red" printed in blue ink instead of red ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the color. This is because reading is an automatic process for most adults, and it interferes with the less-practiced task of naming a colour. This highlights the concepts of automaticity and cognitive control. It's also worth noting that individual differences exist: younger children or neurodivergent individuals may show different patterns of interference.
 
-# Semantic Priming (≈2 min, any group, ★☆☆)
+# Semantic Priming (≈2 min, any group)
 
 ## Activity
 Tell people you are going to ask a question and they should respond as quickly as possible. Then ask one of the following sets of questions:
@@ -294,7 +294,7 @@ Semantic priming is a phenomenon in which exposure to one stimulus (the prime) i
 
 See [this video](https://www.youtube.com/watch?v=9bx7Vl6klmw) for a demonstration.
 
-# Corsi Block-Tapping Task (≈4 min, 1 participant, ★★☆)
+# Corsi Block-Tapping Task (≈4 min, 1 participant)
 
 ## Requirements
 *	Corsi board (9 wooden blocks affixed in irregular order and numbered on the examiner's side)
@@ -325,7 +325,7 @@ The task measures visuo-spatial short-term memory and is a standard assessment o
 *   **9 blocks:** 7-4-2-7-0-9-4-3-5
 *   **10 blocks:** 1-8-5-7-3-9-6-4-2-8
 
-# Size-Weight Illusion (≈2 min, any group, ★☆☆)
+# Size-Weight Illusion (≈2 min, any group)
 
 ## Requirements
 *	Three containers of different sizes but with mismatched weights (e.g., a large light container, a small heavy one, and a medium one with another weight).
@@ -340,7 +340,7 @@ The task measures visuo-spatial short-term memory and is a standard assessment o
 ## Explanation
 The size-weight illusion, also known as the Charpentier illusion, is a cognitive illusion where, when a person lifts two objects of equal weight but different sizes, they will typically feel that the smaller object is heavier. The expectation is that the larger object will be heavier, and when this is not the case, the brain misinterprets the sensory feedback.
 
-# Afterimage Illusion (≈2 min, any group, ★☆☆)
+# Afterimage Illusion (≈2 min, any group)
 
 ## Requirements
 *	A t-shirt with a bright, single-colour fish on it (e.g., blue or green). A printed card also works.
@@ -354,7 +354,7 @@ The size-weight illusion, also known as the Charpentier illusion, is a cognitive
 ## Explanation
 White light is made up of all colours of the spectrum. Our eyes have colour receptors (cones) for red, blue, and green light. Staring at a single bright colour (like a blue fish) fatigues the receptors for that colour. When you then look at a white background, the fatigued receptors (blue in this case) don't respond as strongly. The remaining receptors (red and green) are still fresh and fire normally. The brain combines the signals from the red and green receptors, and you perceive the complementary colour (yellow/orange).
 
-# Buzz Wire Task (≈3 min, any group, ★★☆)
+# Buzz Wire Task (≈3 min, any group)
 
 ## Requirements
 * Buzz wire device
@@ -369,7 +369,7 @@ Electric and non-electric versions of the buzz wire game are familiar party toys
 
 ---
 
-# Tower of Hanoi (≈5 min, 1 participant, ★★☆)
+# Tower of Hanoi (≈5 min, 1 participant)
 
 ## Requirements
 *	A Tower of Hanoi puzzle set (typically 3 pegs and 3-7 disks of varying sizes).
@@ -393,7 +393,7 @@ The solution can be found by breaking the problem down into smaller, simpler sub
 
 This recursive strategy shows how a complex goal can be achieved by repeating a simple set of steps. The minimum number of moves required is 2^n - 1, where 'n' is the number of disks. This exponential growth highlights how problem complexity can increase rapidly. The task requires forward planning and working memory to keep track of goals and sub-goals.
 
-# Train Track Illusion (Jastrow Illusion) (≈1 min, any group, ★☆☆)
+# Train Track Illusion (Jastrow Illusion) (≈1 min, any group)
 
 ## Requirements
 *	Two identical curved wooden toy train track pieces.

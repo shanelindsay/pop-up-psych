@@ -3,7 +3,7 @@ This guide gathers grab-and-go psychology and neuroscience demonstrations for sc
 
 Our approach is three pronged:
 1.	Invite them to take part
-2.	Do the activity 
+2.	Do the activity
 3.	Hit them with science
 
 # Activity Overview
@@ -39,12 +39,12 @@ A portable EEG recorder's sensors detect the spontaneous activity of neurons in 
 The medical community has used EEG technology since the early 1920s. However, recent advances in sensor technology now make it possible to offer EEG in an easy-to-use and mobile form.
 
 ## The System
-The system consists of a small wearable headband which can be paired with a smartphone, tablet or PC. The wearable headband can be put on like a pair of glasses. Unlike more large-scale EEG systems used for research, no gel has to be applied in order to use the device.  Remove long hair that may prevent contact with the skin behind the ears or on the forehead.
- 
+The system consists of a small wearable headband which can be paired with a smartphone, tablet or PC. The wearable headband can be put on like a pair of glasses. Unlike more large-scale EEG systems used for research, no gel has to be applied in order to use the device. Remove long hair that may prevent contact with the skin behind the ears or on the forehead.
+
 ## What does the system measure?
 The device detects a full range of brainwave activity. Brainwaves are typically broken up into five bands, and the device detects all five:
 *	Delta waves, which are most present during sleep.
-*	Theta waves, which are associated with sleep, very deep relaxation, and visualization.
+*	Theta waves, which are associated with sleep, very deep relaxation, and visualisation.
 *	Alpha waves, which occur when relaxed and calm.
 *	Beta waves, which occur when, for example, actively thinking or problem-solving.
 *	Gamma waves, which occur when involved in higher mental activity and consolidation of information.
@@ -53,39 +53,31 @@ The device detects a full range of brainwave activity. Brainwaves are typically 
 No. The device can only tell the type of brain activity you're experiencing, not what you're thinking about.
 
 ## Setting up the EEG Recorder
-Make sure the display device (e.g., tablet or smartphone) and the EEG recorder are fully charged before/after events. This guide assumes you are using a display device with compatible software installed. 
- 
-1. Turn on the EEG headband by pressing the power button. 
-2. Go to the display device's Bluetooth settings and connect to the EEG device.
-3. Start the compatible monitoring app. 
+Make sure the display device (e.g., tablet or smartphone) and the EEG recorder are fully charged before/after events. This guide assumes you are using a display device with compatible software installed.
 
-If this doesn't work you may need to go to Bluetooth setting on the display device and manually connect to the EEG headband.
+1. Turn on the EEG headband by pressing the power button.
+2. Go to the display device's Bluetooth settings and connect to the EEG device.
+3. Start the compatible monitoring app.
+
+If this does not work, you may need to go to the Bluetooth settings on the display device and manually connect to the EEG headband.
 
 ## Activities with the EEG Recorder
-When the app is running, you should see a continuous recording from several EEG channels, typically from the forehead and behind the ears. The app should also provide an indicator of signal quality for each channel. 
+When the app is running, you should see a continuous recording from several EEG channels, typically from the forehead and behind the ears. The app should also provide an indicator of signal quality for each channel.
 
 ### Jaw Clench
-Try clenching your jaws. Since not only neurons but also muscle cells trigger electrical changes, this will result in visible electrical activity in the EEG (a high-frequency component). Next, try clenching just one side of your teeth. 
+Try clenching your jaws. Since not only neurons but also muscle cells trigger electrical changes, this will result in visible electrical activity in the EEG (a high-frequency component). Next, try clenching just one side of your teeth.
 
-**Activity:** One person clenches their jaw, and the audience has to guess by looking at the EEG whether the person is doing (a) a full jaw clench, (b) a left jaw clench, or (c) a right jaw clench. When recording EEG for research purposes, the experimenter usually tries to avoid participants making jaw clenches because it can mask the signal of interest. This "noise" from muscles is called an artifact, and this activity is a great example of why researchers need to use "artifact rejection" techniques to clean their data.
+**Activity:** One person clenches their jaw, and the audience has to guess by looking at the EEG whether the person is doing (a) a full jaw clench, (b) a left jaw clench, or (c) a right jaw clench. When recording EEG for research purposes, the experimenter usually tries to avoid participants making jaw clenches because it can mask the signal of interest. This "noise" from muscles is called an artefact, and this activity is a great example of why researchers need to use "artefact rejection" techniques to clean their data.
 
 ### Eye Blinks and Movements
-Blink your eye. You will see large spikes of electrical changes in the EEG, triggered by the muscle activity underlying an eye blink. Now try moving your eyes from left to right, and then from right to left. 
+Blink your eye. You will see large spikes of electrical changes in the EEG, triggered by the muscle activity underlying an eye blink. Now try moving your eyes from left to right, and then from right to left.
 
-**Activity:** Can you tell the direction of the eye movement (left to right or right to left) based on the EEG? (Hint: Look at the channels corresponding to the left and right forehead). Like the jaw clench, eye movements are another common artifact that must be removed from research data.
+**Activity:** Can you tell the direction of the eye movement (left to right or right to left) based on the EEG? (Hint: Look at the channels corresponding to the left and right forehead). Like the jaw clench, eye movements are another common artefact that must be removed from research data.
 
 ### Alpha Waves
-Observe your brain going into rest mode. Close your eyes for 10 seconds, relax, and try not to move your eyeballs. This will cause an increase in Alpha activity. An observer looking at the channels (especially those behind the ears) should see that an additional low-frequency component is now present. When people are very tired, Alpha is more pronounced. As soon as you open your eyes, the Alpha amplitude will be reduced. 
+Observe your brain going into rest mode. Close your eyes for 10 seconds, relax, and try not to move your eyeballs. This will cause an increase in Alpha activity. An observer looking at the channels (especially those behind the ears) should see that an additional low-frequency component is now present. When people are very tired, Alpha is more pronounced. As soon as you open your eyes, the Alpha amplitude will be reduced.
 
 **Activity:** Try to guess whether someone has their eyes open or closed based on the EEG.
-
-To correct for this, your brain uses adaptive plasticity, updating its internal model of how movement relates to the world. This involves the cerebellum and brain areas involved in vision and motor control.
-First studied in the 19th century (Stratton, 1896), this is a classic demonstration of how flexible our brains can be — a key idea in cognitive and developmental psychology. The principles of this adaptation are relevant to real-world applications, such as training for visuomotor rehabilitation in patients recovering from a stroke or brain injury.
-
-## Try This
-*	How many tries before you can accurately touch the target?
-*	Is your second go easier than your first?
-*	Why might some people adapt faster than others?
 
 # Upside-Down Goggles Activity (≈3 min, 1 participant, ★★☆)
 
@@ -115,11 +107,11 @@ First studied in the 19th century (Stratton, 1896), this is a classic demonstrat
 
 ## Requirements
 *	Electric drill and spiral attachment
-*	2 drills are ideal. 
+*	2 drills are ideal.
 *	Charge where possible as this gets a lot of use, so charge during quiet periods.
 
 ## Instructions
-Tell your volunteer that you are going to expand their mind. Hold a handheld electric screwdriver with a spiral pattern in front of their face and keep it spinning. Get everyone else to stare at the centre of the spinning disc as you slowly count to 20. The closer to their face the better, as it will fill more of their field of vision. On 20 move the disc away from their face. If people continue to stare at the volunteers head they will see it appear to expand. The pattern can be reversed so that objects appear to shrink. Looking at back of their hands, or around the room, can also produce unusual effects. 
+Tell your volunteer that you are going to expand their mind. Hold a handheld electric screwdriver with a spiral pattern in front of their face and keep it spinning. Get everyone else to stare at the centre of the spinning disc as you slowly count to 20. The closer to their face the better, as it will fill more of their field of vision. On 20 move the disc away from their face. If people continue to stare at the volunteer's head they will see it appear to expand. The pattern can be reversed so that objects appear to shrink. Looking at the backs of their hands, or around the room, can also produce unusual effects.
 
 ## Explanation
 This is a classic visual illusion, which relies on a phenomenon called motion after-effect. After staring at a waterfall - or a similar moving-yet-static object such as a rotating spiral - anything you look at afterwards will appear to be in motion in the opposite direction.
@@ -131,13 +123,13 @@ A rotating spiral appears to be expanding or contracting depending on the direct
 *	Einstein/Marilyn hybrid poster
 
 ## Instructions
-Ask people to walk away from or towards the poster, seeing what happens and if the face changes. Alternatively, they can stand still while you move the poster. Asking people to remove glasses or squint will change the distance needed for the illusion to work. 
+Ask people to walk away from or towards the poster, seeing what happens and if the face changes. Alternatively, they can stand still while you move the poster. Asking people to remove glasses or squint will change the distance needed for the illusion to work.
 
 ## Explanation
 A hybrid image is an image that is perceived in one of two different ways, depending on viewing distance, based on the way humans process visual input. Hybrid images combine the low spatial frequencies of one picture with the high spatial frequencies of another picture, producing an image with an interpretation that changes with viewing distance.
 Perhaps the most familiar example is one featuring Albert Einstein and Marilyn Monroe. Looking at the picture from a short distance, one can see a sharp image of Einstein, with only a hint of blurry distortion hinting at the presence of an overlaid image. Viewed from a distance in which the fine detail blurs, the unmistakable face of Monroe emerges.
 
-An accompanying poster can show the separate high and low detail images that are combined to make the single face. 
+An accompanying poster can show the separate high and low detail images that are combined to make the single face.
 
 # Hollow Face Illusion (≈2 min, any group, ★☆☆)
 
@@ -145,12 +137,12 @@ An accompanying poster can show the separate high and low detail images that are
 *	Hollow face mask on a stand
 
 ## Instructions
-Ask people to watch the face as it rotates. It is a very powerful illusion and everyone should experience it. Ask them to watch and pay attention to the point where it flips round, and how the illusion suddenly disappears. The illusion works best if the participants move their heads (e.g. walk in parallel in front of the face). 
+Ask people to watch the face as it rotates. It is a very powerful illusion and everyone should experience it. Ask them to watch and pay attention to the point where it flips round, and how the illusion suddenly disappears. The illusion works best if the participants move their heads (e.g. walk in parallel in front of the face).
 
 ## Explanation
-According to Richard Gregory, "The strong visual bias of favouring seeing a hollow mask as a normal convex (facing outwards) face is evidence for the power of top-down knowledge for vision". This bias of seeing faces as convex is so strong it counters competing monocular depth cues, such as shading and shadows, and also very considerable unambiguous information from the two eyes signalling stereoscopically that the object is hollow. 
+According to Richard Gregory, "The strong visual bias of favouring seeing a hollow mask as a normal convex (facing outwards) face is evidence for the power of top-down knowledge for vision". This bias of seeing faces as convex is so strong it counters competing monocular depth cues, such as shading and shadows, and also very considerable unambiguous information from the two eyes signalling stereoscopically that the object is hollow.
 Scientists have attempted to explain the illusion for centuries, but there is still much we don't know about how it works. Our visual system can use tools like binocular disparity and motion parallax to judge distance, but these techniques don't seem to work with the hollow mask until we're extremely close to it: for many people, nearer than three feet. The effect is diminished if the mask is turned upside-down, but it doesn't disappear; nearly everyone still sees the illusion.
-All this adds up to a fairly convincing argument that our perception of a face as a whole is what causes us to see the mask as convex, like a real face instead of a hollow shell. Our visual system is receiving a variety of different cues to depth of objects, and prioritizes them in ways that are usually quite accurate. But illusions such as the hollow face demonstrate that those priorities don't always work. Fortunately we don't see hollow masks nearly as often as real faces, so for the vast majority of our visual experience, our visual world seems just fine.
+All this adds up to a fairly convincing argument that our perception of a face as a whole is what causes us to see the mask as convex, like a real face instead of a hollow shell. Our visual system is receiving a variety of different cues to depth of objects, and prioritises them in ways that are usually quite accurate. But illusions such as the hollow face demonstrate that those priorities don't always work. Fortunately we don't see hollow masks nearly as often as real faces, so for the vast majority of our visual experience, our visual world seems just fine.
 
 # The Schema Mismatch Task (≈2 min, any group, ★☆☆)
 
@@ -184,10 +176,10 @@ This kind of mismatch is central to how we learn, adapt, and make sense of the w
 ## Requirements
 *	TV /laptop/phone screen
 *	Video of the McGurk effect (e.g. with three faces) on a loop
-*	Speakers or headphones 
+*	Speakers or headphones
 
 ## Instructions
-Easiest case is have a video of person repeating sylablle "ba" - ask them to shut eyes before hearing it, and say what they hear. Then they should look at the screen and it is repeated, and again report what they now hear. 
+The easiest version uses a video of a person repeating the syllable "ba". Ask participants to shut their eyes before hearing it and say what they hear. Then ask them to look at the screen while it is repeated, and again report what they now hear.
 
 ## Explanation
 The McGurk effect is a perceptual phenomenon that demonstrates an interaction between hearing and vision in speech perception. The illusion occurs when the auditory component of one sound is paired with the visual component of another sound, leading to the perception of a third sound. The visual information a person gets from seeing a person speak changes the way they hear the sound. People who are used to watching dubbed movies may be among people who are not susceptible to the McGurk effect because they have, to some extent, learned to ignore the information they are getting from the mouths of the "speakers". If a person is getting poor quality auditory information but good quality visual information, they may be more likely to experience the McGurk effect. Integration abilities for audio and visual information may also influence whether a person will experience the effect. People who are better at sensory integration have been shown to be more susceptible to the effect. Many people are affected differently by the McGurk effect based on many factors, including brain damage and other disorders.
@@ -214,8 +206,8 @@ Example: https://www.youtube.com/watch?v=jUsC-psm_fI
 7.  (Optional) Pretend to hit the rubber hand with a hammer and observe if the participant flinches or pulls their real hand away.
 
 ## Explanation
-A trick known as the rubber hand illusion plays with this sense of body ownership. In this illusion, a subject is made to believe a rubber hand is in fact his own hand, which is hidden from view, to the point of pulling his own hand away if the rubber hand is attacked. 
-When Botvinick and Cohen first demonstrated the illusion, they argued that vision is crucial for identifying one's body. You see where your hands and feet are as much, if not more, than you feel where they are. We see objects that move with us or that we move as being part of us. The cool thing is that the boundary between the self I perceive and the world around me is malleable. I can see a rubber hand as being my hand, as being part of my body, as part of me. 
+A trick known as the rubber hand illusion plays with this sense of body ownership. In this illusion, a subject is made to believe a rubber hand is in fact his own hand, which is hidden from view, to the point of pulling his own hand away if the rubber hand is attacked.
+When Botvinick and Cohen first demonstrated the illusion, they argued that vision is crucial for identifying one's body. You see where your hands and feet are as much, if not more, than you feel where they are. We see objects that move with us or that we move as being part of us. The cool thing is that the boundary between the self I perceive and the world around me is malleable. I can see a rubber hand as being my hand, as being part of my body, as part of me.
 
 **Demo Video:** [https://www.youtube.com/watch?v=sxwn1w7MJvk](https://www.youtube.com/watch?v=sxwn1w7MJvk)
 
@@ -259,13 +251,13 @@ The Thaumatrope is a Victorian toy constructed from a simple disk or card featur
 ## Activity
 1.  Participants first read the matching list (List 1) as quickly as possible. This is for practice.
 2.  Next, they are timed reading the second, non-matching list (List 2). The task is to name the *colour of the ink*, not read the word itself.
-3.  Time their performance and deduct time for any mistakes.
+3.  Time their performance and add a time penalty for any mistakes.
 4.  Record their name and time on the leaderboard.
 
 An alternative is to have one list and first ask them to read the words, then on a second go, ask them to name the ink colours.
 
 ## Explanation
-The Stroop effect demonstrates the interference in reaction time of a task. When the name of a color (e.g., "blue", "green", or "red") is printed in a color which is not denoted by the name (e.g., the word "red" printed in blue ink instead of red ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the color. This is because reading is an automatic process for most adults, and it interferes with the less-practiced task of naming a colour. This highlights the concepts of automaticity and cognitive control. It's also worth noting that individual differences exist: younger children or neurodivergent individuals may show different patterns of interference.
+The Stroop effect demonstrates the interference in reaction time of a task. When the name of a colour (e.g., "blue", "green", or "red") is printed in a colour which is not denoted by the name (e.g., the word "red" printed in blue ink instead of red ink), naming the colour of the word takes longer and is more prone to errors than when the colour of the ink matches the name of the colour. This is because reading is an automatic process for most adults, and it interferes with the less-practised task of naming a colour. It also highlights the concepts of automaticity and cognitive control. It is also worth noting that individual differences exist: younger children or neurodivergent individuals may show different patterns of interference.
 
 # Semantic Priming (≈2 min, any group, ★☆☆)
 
@@ -312,7 +304,7 @@ See [this video](https://www.youtube.com/watch?v=9bx7Vl6klmw) for a demonstratio
 7.	The "Corsi span" is the highest sequence length the participant reproduced correctly.
 
 ## Explanation
-The task measures visuo-spatial short-term memory and is a standard assessment of working-memory capacity (Corsi, 1972). Most adults can reproduce a sequence of five to six blocks; recalling nine or more is uncommon (Kessels & de Wal, 2010). Using comparable pacing and block placement is important to ensure reliability. 
+The task measures visuo-spatial short-term memory and is a standard assessment of working-memory capacity (Corsi, 1972). Most adults can reproduce a sequence of five to six blocks; recalling nine or more is uncommon (Kessels & de Wal, 2010). Using comparable pacing and block placement is important to ensure reliability.
 
 ### Example Sequences (ascending length)
 *   **2 blocks:** 2-8
@@ -381,17 +373,17 @@ Electric and non-electric versions of the buzz wire game are familiar party toys
     *	Only one disk can be moved at a time.
     *	A disk can only be moved if it is the uppermost disk on a stack.
     *	No disk may be placed on top of a smaller disk.
-4.	Challenge participants to solve it. For a greater challenge, time them or count their moves.Start with 3, for the easiest challenge, then build up. 
+4.	Challenge participants to solve it. For a greater challenge, time them or count their moves. Start with 3, for the easiest challenge, then build up.
 
 ## Explanation
 The Tower of Hanoi is a classic mathematical puzzle that demonstrates the power of recursive thinking and is used by psychologists to study problem-solving and planning abilities.
 
-The solution can be found by breaking the problem down into smaller, simpler sub-problems. To move 'n' disks from a source peg to a target peg:
-1.  Move 'n-1' disks from the source to the auxiliary peg.
+The solution can be found by breaking the problem down into smaller, simpler sub-problems. To move `n` disks from a source peg to a target peg:
+1.  Move `n-1` disks from the source to the auxiliary peg.
 2.  Move the largest (nth) disk from the source to the target peg.
-3.  Move the 'n-1' disks from the auxiliary to the target peg.
+3.  Move the `n-1` disks from the auxiliary to the target peg.
 
-This recursive strategy shows how a complex goal can be achieved by repeating a simple set of steps. The minimum number of moves required is 2^n - 1, where 'n' is the number of disks. This exponential growth highlights how problem complexity can increase rapidly. The task requires forward planning and working memory to keep track of goals and sub-goals.
+This recursive strategy shows how a complex goal can be achieved by repeating a simple set of steps. The minimum number of moves required is `2^n - 1`, where `n` is the number of disks. This exponential growth highlights how problem complexity can increase rapidly. The task requires forward planning and working memory to keep track of goals and sub-goals.
 
 # Train Track Illusion (Jastrow Illusion) (≈1 min, any group, ★☆☆)
 
@@ -404,7 +396,7 @@ This recursive strategy shows how a complex goal can be achieved by repeating a 
 3.	Swap the positions of the two pieces. The piece that now appears at the bottom will seem longer.
 4.	Place one piece directly on top of the other to demonstrate that they are exactly the same size.
 
-Or you can hold in front of them and swap round the postitions. 
+You can also hold the pieces in front of participants and swap their positions.
 
 ## Explanation
 This is a classic optical illusion known as the Jastrow illusion. The brain is tricked by the arrangement of the two shapes. Two identical curved pieces look different in size because your visual system judges length using nearby edges and context rather than measuring the whole shapes. The long outer curve of the lower piece sits beside the short inner curve of the upper piece, and this local comparison biases perception so the lower one appears longer. Slight misalignment of endpoints prevents easy matching across the whole contour, which strengthens the effect. It's a powerful demonstration of how our brain uses context and comparison to judge size, and how these shortcuts can sometimes lead to incorrect conclusions.

@@ -16,9 +16,9 @@ A grab-and-go handbook of illusions, cognitive challenges and bio-sensor demos y
 ## Repository layout
 
 ```
-Summary of science activities.md   # master handbook – one long file for quick printing
-images/                           # diagrams & cue cards (coming soon)
-resources/                        # printable signs, QR hand-outs, slide templates
+activities.md      # facilitator handbook in one long file
+images/            # diagrams and cue cards
+resources/         # printable signs, QR hand-outs, slide templates
 ```
 
 ---

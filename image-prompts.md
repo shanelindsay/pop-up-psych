@@ -108,6 +108,106 @@ No worksheet-style heavy boxes.
 No text, marks, icons, boxes, or placeholder elements in the empty header band.
 ```
 
+## Corsi Block-Tapping Task
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+CORSI BLOCK-TAPPING TASK
+
+Main question:
+What is the limit of spatial working memory?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Tap each block about once per second.
+2 Ask the participant to copy the sequence.
+3 Start with the 2-block sequence.
+4 Move to the next length after a correct response.
+5 Stop after two failed attempts at the same length.
+
+Sequence panel title:
+SEQUENCES
+
+Sequence panel text:
+2: 2-8
+3: 9-6-5
+4: 7-2-4-5
+5: 1-9-3-6-7
+6: 3-4-8-7-2-6
+7: 9-3-5-7-4-1-8
+8: 3-8-7-5-1-2-6-9
+9: 7-4-2-8-1-9-6-3-5
+10: 1-8-5-7-3-9-6-4-2-8
+
+Score section title:
+RECORD THE SPAN
+
+Score section text:
+Corsi span = longest sequence length copied correctly.
+Most adults score around 5-6.
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- Corsi span estimates visuo-spatial working-memory capacity.
+- Longer spans require maintaining serial order, not just recognising locations.
+- Errors often preserve some blocks but lose order or later positions.
+- Performance drops as sequence length exceeds available working-memory resources.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show a tabletop Corsi block board with nine numbered blocks in an irregular spatial arrangement. The student experimenter should be tapping a sequence while the participant watches. The board numbers should be visible to the experimenter side, and the visual should support the idea of serial spatial recall without adding a separate explanatory diagram.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedure. This is the most important text block on the poster.
+
+Sequence section:
+Include the SEQUENCES panel clearly enough for the student experimenter to run the task from the poster. Keep the sequence list compact but readable.
+
+Score section:
+Place RECORD THE SPAN near the sequence list so the student experimenter knows what outcome to record.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the procedure and sequence list.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
 ## Buzz Wire Task
 
 ```text

@@ -108,6 +108,681 @@ No worksheet-style heavy boxes.
 No text, marks, icons, boxes, or placeholder elements in the empty header band.
 ```
 
+## Buzz Wire Task
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+BUZZ WIRE TASK
+
+Main question:
+How steady is your hand under pressure?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Move the loop from start to finish.
+2 Try to avoid touching the wire.
+3 Count each buzz.
+4 Add 5 seconds for every buzz.
+5 Compare adjusted times.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+Fast attempts often make more errors.
+Slower attempts can be more controlled.
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- This task measures fine motor control.
+- Vision guides small corrections in hand movement.
+- Attention and patience help reduce errors.
+- Psychologists use tasks like this to study coordination, error recovery, and skill learning.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show a tabletop buzz wire device with a loop wand, clear route, and restrained error marks. The scene should feel like a live public psychology experiment rather than a party game advert.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what to notice during the attempt.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
+## Tower of Hanoi
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+TOWER OF HANOI
+
+Main question:
+Can you plan several moves ahead?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Start with all disks on one peg.
+2 Move the stack to the target peg.
+3 Move one disk at a time.
+4 Never place a larger disk on a smaller disk.
+5 Count moves or time the solution.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+More disks means many more moves.
+Participants need goals and sub-goals.
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- This task measures planning and problem solving.
+- Good solutions break the goal into smaller sub-goals.
+- Working memory helps keep track of future moves.
+- The minimum number of moves is 2^n - 1, so difficulty grows quickly.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show a tabletop Tower of Hanoi puzzle with three pegs, four or five coloured disks, and one hand moving only the top disk. The visual should show the puzzle clearly without giving a full solution.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural rules. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what to notice during problem solving.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No full solution diagram.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
+## Train Track Illusion
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+TRAIN TRACK ILLUSION
+
+Main question:
+Which track piece is longer?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Place two identical curved tracks one above the other.
+2 Ask: which one looks longer?
+3 Swap their positions.
+4 Ask again.
+5 Stack them to show they match.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+The lower piece often looks longer.
+After swapping, the lower piece can still look longer.
+
+Image labels:
+Identical pieces
+Position changes perception
+Stack to check
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- This is the Jastrow illusion.
+- The pieces are identical, but their arrangement changes perceived length.
+- Your visual system compares nearby edges and curves.
+- Context can bias size judgements even when the objects match.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show two identical curved wooden toy train track pieces in the classic Jastrow arrangement, plus one compact stacked-check view. The stacked-check view should clarify that the pieces match without becoming a second explanatory diagram.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what to notice after each position change.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No extra diagram beyond the stacked check.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
+## Rubber Hand Illusion
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+RUBBER HAND ILLUSION
+
+Main question:
+Can a fake hand feel like yours?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Seat participant at the table.
+2 Hide their real hand behind a screen.
+3 Place the rubber hand in view.
+4 Stroke both hands together for 60 seconds.
+5 Ask where they feel the touch.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+The participant may feel touch on the rubber hand.
+Some people feel that the rubber hand belongs to them.
+A sudden threat to the rubber hand may make them flinch.
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- Vision and touch are synchronised.
+- The brain uses this multisensory evidence to judge body ownership.
+- When the seen hand and felt touch match, the rubber hand can be experienced as part of the body.
+- The illusion shows that the sense of my body is actively constructed.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show a tabletop setup with a participant seated, their real hand hidden behind a screen, a visible rubber hand in a plausible body position, and a student experimenter using two brushes to stroke the hidden real hand and visible rubber hand at the same time. The spatial setup should be immediately understandable.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what to notice during and after synchronous stroking.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
+## McGurk Effect
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+MCGURK EFFECT
+
+Main question:
+Can your eyes change what you hear?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Play the speech video with sound.
+2 Ask them to close their eyes.
+3 Ask: what syllable do you hear?
+4 Ask them to watch the mouth.
+5 Ask again: what do you hear now?
+
+Observation section title:
+WHAT TO LISTEN FOR
+
+Observation section text:
+The sound may stay the same.
+The mouth movement can change the reported syllable.
+Many people hear a third percept, not just the sound alone.
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- Speech perception combines hearing and vision.
+- The brain uses mouth movements to help interpret ambiguous sounds.
+- When auditory and visual speech cues conflict, perception can shift.
+- The McGurk effect shows multisensory integration in speech perception.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show a student experimenter using a laptop or screen with a close-up speech video. The visual should clearly show the two-stage comparison: eyes closed first, then watching the mouth. Keep any sound or mouth graphics restrained and secondary to the procedure.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO LISTEN FOR directly beside or beneath the experiment steps so the student experimenter knows what response shift to listen for.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
+## Hybrid Image Illusion
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+HYBRID IMAGE ILLUSION
+
+Main question:
+Can distance change who you see?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Show the hybrid face close up.
+2 Ask: who do you see?
+3 Step back several metres.
+4 Ask again: who do you see now?
+5 Try squinting or removing glasses.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+Close up, many people see Einstein.
+From far away, many people see Marilyn.
+Squinting removes fine detail and can change the percept.
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- Hybrid images combine fine detail from one face with broad shape from another.
+- Close viewing preserves high spatial frequencies.
+- Distance and squinting reduce fine detail, leaving low spatial frequencies.
+- The illusion shows that perception depends on the scale of visual information available.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show a hybrid face poster being viewed at two distances: close viewing and far viewing. The visual should communicate that fine detail dominates close up and broad shape dominates from a distance, without adding extra explanatory panels.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what perceptual change to ask about.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
+## Spiral After-Effect
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+SPIRAL AFTER-EFFECT
+
+Main question:
+Why does a still face seem to move?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Spin the spiral disc.
+2 Ask them to stare at the centre.
+3 Count slowly to 20.
+4 Move the spiral away.
+5 Ask what happens to the face.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+The face may seem to expand or shrink.
+The room or hands may seem to drift.
+Reversing the spiral changes the after-effect.
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- This is the motion after-effect.
+- Motion-sensitive cells adapt while the spiral spins.
+- When the spiral stops, activity is temporarily unbalanced.
+- A still object can then appear to move in the opposite direction.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show a student experimenter holding a handheld electric screwdriver with a black-and-white spiral disc spinning in front of a participant's face. Show subtle spiral motion and restrained face distortion. The visual should be dramatic but still read as a safe tabletop/outreach experiment.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what after-effect to ask about.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
+## Stroop Effect
+
+```text
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+STROOP EFFECT
+
+Main question:
+Can you name the ink colour, not read the word?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Start with the matching list.
+2 Ask them to name each ink colour.
+3 Time the mismatched list.
+4 Add time for mistakes.
+5 Record the score.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+Mismatched words are usually slower.
+Mistakes are common under time pressure.
+Reading can interfere with colour naming.
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- This is the Stroop effect.
+- Reading is highly practised and often automatic.
+- Naming ink colour needs controlled attention.
+- When word meaning and ink colour conflict, the two responses compete.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show a student experimenter using a stopwatch while a participant works through a Stroop colour-word board. The board should show conflicting ink-colour words such as RED, BLUE, GREEN, and YELLOW. Use colour-word typography as controlled visual texture only.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what timing and error pattern to notice.
+
+Debrief section:
+Use a clear bullet debrief containing text only. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No extra comparison chart in the debrief.
+No brush-stroke banners.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```
+
 ## Hollow Face Illusion
 
 ```text

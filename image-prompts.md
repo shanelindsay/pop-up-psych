@@ -181,7 +181,7 @@ Top section:
 Activity title and main question should be visually strong but should not dominate the whole poster.
 
 Main visual:
-Show a tabletop Corsi block board with nine numbered blocks in an irregular spatial arrangement. The student experimenter should be tapping a sequence while the participant watches. The board numbers should be visible to the experimenter side, and the visual should support the idea of serial spatial recall without adding a separate explanatory diagram.
+Show a tabletop Corsi block board with nine blocks in an irregular spatial arrangement. The participant-facing sides of the blocks are plain and unnumbered. Small numbers are visible only on the experimenter-facing side or as a separate experimenter map on the poster. The participant watches the experimenter tap locations but cannot see block numbers. The visual should support the idea of serial spatial recall without adding a separate explanatory diagram.
 
 Primary section:
 Large RUN THE EXPERIMENT panel with the exact procedure. This is the most important text block on the poster.
@@ -205,6 +205,9 @@ No duplicate mini panels.
 No explanatory diagram.
 No brush-stroke banners.
 No worksheet-style heavy boxes.
+No participant-visible block numbers.
+No regular 3x3 keypad layout.
+No branded clothing or visible logos.
 No text, marks, icons, boxes, or placeholder elements in the empty header band.
 ```
 

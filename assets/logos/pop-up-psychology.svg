@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+  <title id="title">Pop-Up Psychology logo</title>
+  <desc id="desc">A Pop-Up Psychology wordmark with a small open-card mark.</desc>
+  <defs>
+    <style>
+      .ink { fill: #1e1e1e; }
+      .teal { fill: #00b3b8; }
+      .mint { fill: #dff7e2; }
+      .persimmon { fill: #f05d23; }
+      .aubergine { fill: #4b2e83; }
+      .stroke { fill: none; stroke: #1e1e1e; stroke-width: 8; stroke-linejoin: round; }
+      .wordmark {
+        font-family: "DejaVu Sans Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+        font-weight: 800;
+        letter-spacing: -2px;
+      }
+    </style>
+  </defs>
+
+  <g transform="translate(16 22)">
+    <path class="stroke" d="M84 8 20 34v96l64-26Z"/>
+    <path class="mint" d="M92 16h54v98H92Z"/>
+    <path class="teal" opacity="0.45" d="M106 30h54v98h-54Z"/>
+    <circle class="persimmon" cx="57" cy="78" r="9"/>
+    <path class="persimmon" d="M3 20 31 0l7 10L10 30Z"/>
+    <path class="teal" d="M0 70h34v12H0Z"/>
+    <path class="aubergine" d="M8 132 38 116l6 11-30 16Z"/>
+  </g>
+
+  <g class="ink wordmark" transform="translate(210 47)">
+    <text x="0" y="54" font-size="58">POP-UP</text>
+    <text x="0" y="118" font-size="54">PSYCHOLOGY</text>
+  </g>
+</svg>

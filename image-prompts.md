@@ -14,7 +14,7 @@ HOUSE STYLE
 Project: Pop-Up Psychology
 Format: A4 portrait experiment station poster.
 Audience: A-level psychology students.
-Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+Purpose: Help an experimenter run a public psychology experiment and support a short debrief.
 
 Header:
 Empty thin header band across the top 10-15% of the poster.
@@ -51,15 +51,15 @@ Activity title:
 REACTION CATCH CHALLENGE
 
 Main question:
-Can you react when your attention is split?
+Can attention change reaction time?
 
 Primary panel title:
 RUN THE EXPERIMENT
 
 Primary panel text:
-1 Normal round: catch as many sticks as you can.
-2 Score how many you catch out of 6.
-3 Distracted round: count backwards by 3s while catching.
+1 Ask the participant to catch as many sticks as possible.
+2 Score how many they catch out of 6.
+3 Ask them to count backwards by 3s while catching.
 4 Score again out of 6.
 5 Compare the two scores.
 
@@ -68,8 +68,8 @@ WHAT TO WATCH FOR
 
 Observation section text:
 Does distraction reduce the score?
-Do people change their strategy?
-Are some pupils affected more than others?
+Does the participant change strategy?
+Are some participants affected more than others?
 
 Debrief title:
 DEBRIEF
@@ -86,13 +86,13 @@ Top section:
 Activity title and main question should be visually strong but should not dominate the whole poster.
 
 Main visual:
-Show the falling-stick reaction-catching toy clearly, without any child. The toy has a bright glossy yellow horizontal top bar shaped like a rounded plastic tube. Six evenly spaced vertical royal-blue foam sticks hang from yellow connector sockets. Each blue cylindrical stick has a yellow plastic cap at the bottom. Thin cords suspend the top bar. The sticks are ready to drop. Show two student ambassador hands below, palms ready to catch, but keep the toy as the focus. Use clean product-style lighting on a plain light background. The object should immediately read as a falling-stick reaction challenge.
+Show the falling-stick reaction-catching toy clearly. The toy has a bright glossy yellow horizontal top bar shaped like a rounded plastic tube. Six evenly spaced vertical royal-blue foam sticks hang from yellow connector sockets. Each blue cylindrical stick has a yellow plastic cap at the bottom. Thin cords suspend the top bar. The sticks are ready to drop. Show a participant's hands below, palms ready to catch, and an experimenter nearby operating or presenting the apparatus, but keep the toy as the focus. Use clean product-style lighting on a plain light background. The object should immediately read as a falling-stick reaction challenge used in a psychology experiment.
 
 Primary section:
 Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
 
 Observation section:
-Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what to notice.
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the experimenter knows what to notice.
 
 Debrief section:
 Use a clear bullet debrief. This is the second most important content area after the experiment steps.

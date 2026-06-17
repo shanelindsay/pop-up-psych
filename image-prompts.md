@@ -26,6 +26,95 @@ Typography:
 Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. The typography should feel intentionally designed rather than generic system sans.
 ```
 
+## Reaction Catch Challenge
+
+```text
+HOUSE STYLE
+
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help a student experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents, with bright yellow and royal blue accents from the reaction-catching toy. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. Section headings should be clean typographic tabs or simple text headings.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+REACTION CATCH CHALLENGE
+
+Main question:
+Can you react when your attention is split?
+
+Primary panel title:
+RUN THE EXPERIMENT
+
+Primary panel text:
+1 Normal round: catch as many sticks as you can.
+2 Score how many you catch out of 6.
+3 Distracted round: count backwards by 3s while catching.
+4 Score again out of 6.
+5 Compare the two scores.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+Does distraction reduce the score?
+Do people change their strategy?
+Are some pupils affected more than others?
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- Reaction time is not just fast hands.
+- The brain must detect the drop, choose a response, and move.
+- Counting uses working memory and attention.
+- When attention is split, catching can get harder.
+- Psychologists compare conditions to explain behaviour.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Show the falling-stick reaction-catching toy clearly, without any child. The toy has a bright glossy yellow horizontal top bar shaped like a rounded plastic tube. Six evenly spaced vertical royal-blue foam sticks hang from yellow connector sockets. Each blue cylindrical stick has a yellow plastic cap at the bottom. Thin cords suspend the top bar. The sticks are ready to drop. Show two student ambassador hands below, palms ready to catch, but keep the toy as the focus. Use clean product-style lighting on a plain light background. The object should immediately read as a falling-stick reaction challenge.
+
+Primary section:
+Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the experiment steps so the student experimenter knows what to notice.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the experiment steps.
+
+EXCLUSIONS
+No project name.
+No brand name.
+No QR code.
+No slogan.
+No promotional footer strip.
+No footer text.
+No logos.
+No watermark.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No worksheet-style heavy boxes.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+No extra text beyond the VISIBLE TEXT block.
+```
+
 ## Semantic Priming
 
 ```text

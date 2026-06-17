@@ -615,7 +615,11 @@ Top section:
 Activity title and main question should be visually strong but should not dominate the whole poster.
 
 Main visual:
-Use a clean overhead instructional view of the canonical rubber hand illusion setup. The participant sits at the far side of the table with their shoulders and forearms covered by a cloth. A vertical opaque divider screen runs lengthwise from the participant toward the experimenter, parallel with the participant's arm. The divider separates two side-by-side compartments and never cuts across a hand or forearm. On one side of the divider, the participant's real hand lies palm-down behind the screen, hidden from the participant's view. On the other side, a separate realistic rubber hand lies palm-down, visible to the participant, parallel to the hidden real hand, anatomically aligned with the participant's covered arm, with its wrist disappearing under the cloth. Two experimenter hands enter from the near side of the table, each holding a small brush. The brushes touch the same location on the hidden real hand and visible rubber hand at the same time. Use simple labels or leader lines only if needed to clarify Hidden real hand, Visible rubber hand, Divider screen, and Synchronous brushing.
+Use a photorealistic classroom demonstration image viewed from the experimenter's side of a black tabletop, looking toward the seated participant. The participant faces the camera and looks down naturally, with no sunglasses, headphones, goggles, or blindfold. Their normal clothing should be visible at the chest and shoulders. A small loose black drape sits locally around the forearms and hand entry points only; it hides the origins of the arms and the rubber-hand wrist but does not cover the whole torso or table.
+
+The setup must show exactly three participant hands/arms on the table. On the viewer's left is the participant's ordinary visible real left hand, resting and not brushed. In the middle, directly in front of the participant, is the lifelike rubber right hand, palm-down, fingers pointing toward the viewer/experimenter, with its wrist tucked just under the black drape. On the viewer's right, behind the divider, is the participant's real right hand, palm-down, fingers pointing toward the viewer/experimenter. The middle rubber hand and the divider-side real hand must be the same hand orientation, like a right hand and a duplicate right rubber hand placed side by side. Their thumbs must be on the same side relative to their fingers; do not mirror one into a left hand.
+
+A solid vertical opaque divider screen stands lengthwise exactly between the middle rubber right hand and the viewer-right real right hand. The divider runs from the participant toward the camera, parallel with the two matching right hands. It blocks the participant's view of the viewer-right real hand but does not cover or intersect any hand, wrist, fingers, or forearm. Two experimenter hands enter from the foreground with small paintbrushes: one brush strokes the middle rubber right hand, and the other strokes the viewer-right real right hand at the same matching location and direction. The viewer-left resting hand is not brushed.
 
 Primary section:
 Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
@@ -635,6 +639,12 @@ No decorative icons in content blocks.
 No duplicate mini panels.
 No brush-stroke banners.
 No worksheet-style heavy boxes.
+No labels in the main demonstration image.
+No sunglasses, headphones, goggles, blindfold, or VR headset.
+No sprawling blanket covering the participant's whole torso or the table.
+No middle left hand.
+No mirrored rubber hand.
+No mismatched orientation between the middle rubber right hand and the viewer-right real right hand.
 No divider cutting through the visible rubber hand.
 No divider crossing over the wrist, palm, fingers, or forearm.
 No holes or cut-outs in the divider screen.

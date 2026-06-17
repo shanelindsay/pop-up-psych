@@ -525,7 +525,7 @@ Top section:
 Activity title and main question should be visually strong but should not dominate the whole poster.
 
 Main visual:
-Show a tabletop setup with a participant seated, their real hand hidden behind a screen, a visible rubber hand in a plausible body position, and a student experimenter using two brushes to stroke the hidden real hand and visible rubber hand at the same time. The spatial setup should be immediately understandable.
+Use a clean overhead instructional view of the canonical rubber hand illusion setup. The participant sits at the far side of the table with their shoulders and forearms covered by a cloth. A vertical opaque divider screen runs lengthwise from the participant toward the experimenter, parallel with the participant's arm. The divider separates two side-by-side compartments and never cuts across a hand or forearm. On one side of the divider, the participant's real hand lies palm-down behind the screen, hidden from the participant's view. On the other side, a separate realistic rubber hand lies palm-down, visible to the participant, parallel to the hidden real hand, anatomically aligned with the participant's covered arm, with its wrist disappearing under the cloth. Two experimenter hands enter from the near side of the table, each holding a small brush. The brushes touch the same location on the hidden real hand and visible rubber hand at the same time. Use simple labels or leader lines only if needed to clarify Hidden real hand, Visible rubber hand, Divider screen, and Synchronous brushing.
 
 Primary section:
 Large RUN THE EXPERIMENT panel with the exact procedural steps. This is the most important text block on the poster.
@@ -543,9 +543,13 @@ No promotional footer strip.
 No cartoon brain icon.
 No decorative icons in content blocks.
 No duplicate mini panels.
-No explanatory diagram.
 No brush-stroke banners.
 No worksheet-style heavy boxes.
+No divider cutting through the visible rubber hand.
+No divider crossing over the wrist, palm, fingers, or forearm.
+No holes or cut-outs in the divider screen.
+No rubber hand emerging from the screen.
+No freestanding severed hand in an implausible position.
 No text, marks, icons, boxes, or placeholder elements in the empty header band.
 ```
 

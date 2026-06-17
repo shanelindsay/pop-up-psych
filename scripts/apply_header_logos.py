@@ -36,16 +36,24 @@ def find_header_rule_y(poster: Image.Image) -> int:
 
     best_y = round(height * 0.09)
     best_dark = 0
+    muted_candidate: int | None = None
     for y in range(search_start, search_end):
         dark = 0
+        muted = 0
         for x in range(width):
             r, g, b = rgb.getpixel((x, y))
             if r < 90 and g < 90 and b < 90:
                 dark += 1
+            if (r + g + b) / 3 < 230:
+                muted += 1
         if dark > best_dark:
             best_y = y
             best_dark = dark
+        if muted_candidate is None and muted > width * 0.35:
+            muted_candidate = y
 
+    if muted_candidate is not None and muted_candidate < best_y:
+        return muted_candidate
     if best_dark < width * 0.35:
         return round(height * 0.095)
     return best_y

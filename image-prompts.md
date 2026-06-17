@@ -1167,3 +1167,113 @@ No explanatory diagram.
 No worksheet-style heavy boxes.
 No text, marks, icons, boxes, or placeholder elements in the empty header band.
 ```
+
+## Live EEG Brain Signals
+
+```text
+Use the attached reference image as the physical-object reference for the headset: an Emotiv Insight 5-channel wireless EEG headband, with a black curved headband frame, rear side module, and small sensor arms/contacts positioned around the forehead, sides, and back/top of the head. Create a new A4 portrait experiment station poster for Pop-Up Psychology, not a product advert and not a generic EEG cap.
+
+HOUSE STYLE
+
+Project: Pop-Up Psychology
+Format: A4 portrait experiment station poster.
+Audience: A-level psychology students.
+Purpose: Help an experimenter run a public psychology experiment and support a short debrief.
+
+Header:
+Empty thin header band across the top 10-15% of the poster.
+
+Visual identity: Perception Studio.
+Use soft ivory paper, graphite typography, electric teal, persimmon, aubergine, and pale mint accents. The design should feel tactile, editorial, curious, mature, and suitable for psychology outreach.
+
+Typography:
+Use a contemporary museum typography system: a tall condensed grotesk display face for the activity title, an elegant humanist sans for the question, and a refined readable sans for instructions and debrief. The typography should feel intentionally designed rather than generic system sans.
+
+VISIBLE TEXT
+Only this text should appear on the poster.
+
+Activity title:
+LIVE EEG BRAIN SIGNALS
+
+Main question:
+Can we see brain signals change?
+
+Primary panel title:
+RUN THE DEMO
+
+Primary panel text:
+1 Fit the EEG headset.
+2 Check the sensor contact.
+3 Ask them to sit still.
+4 Try blink, jaw clench, and eyes closed.
+5 Compare the live signal changes.
+
+Observation section title:
+WHAT TO WATCH FOR
+
+Observation section text:
+Blinks often change the front sensors.
+Jaw clenching creates strong muscle activity.
+Eyes closed may increase alpha rhythm.
+Mental maths can shift the rhythm pattern.
+
+Image labels:
+EEG
+Live signal
+Rhythm bands
+Sensor contact
+AF3
+AF4
+T7
+T8
+Pz
+
+Debrief title:
+DEBRIEF
+
+Debrief text:
+- EEG records tiny voltage changes at the scalp.
+- The signal includes brain rhythms, eye movements, muscles, movement, and sensor contact.
+- Different sensors pick up different mixtures of activity.
+- Researchers compare conditions to see when the pattern changes.
+
+COMPOSITION
+Top section:
+Activity title and main question should be visually strong but should not dominate the whole poster.
+
+Main visual:
+Use the attached reference image to make the headset accurate. Show a student volunteer seated at a table wearing an Emotiv Insight-style EEG headband while looking at a laptop or tablet. A student experimenter stands beside them and points to the live display. The screen should show clear raw EEG traces, simple rhythm bars, and sensor contact indicators. The headset sensors, volunteer, display, and experimenter should all be visible. The scene should feel like a real school psychology outreach demonstration, practical and approachable, not futuristic or medical.
+
+Primary section:
+Large RUN THE DEMO panel with the exact procedural steps. This is the most important text block on the poster.
+
+Observation section:
+Place WHAT TO WATCH FOR directly beside or beneath the demo steps so the experimenter knows what visible signal changes to point out.
+
+Debrief section:
+Use a clear bullet debrief. This is the second most important content area after the demo steps.
+
+EXCLUSIONS
+No QR code.
+No slogan.
+No promotional footer strip.
+No cartoon brain icon.
+No decorative icons in content blocks.
+No duplicate mini panels.
+No explanatory diagram.
+No worksheet-style heavy boxes.
+No glowing brain hologram.
+No futuristic sci-fi interface.
+No medical diagnosis framing.
+No claim that EEG reads thoughts.
+No claim that the signal is only brain activity.
+No hospital bed or clinical treatment scene.
+No generic EEG cap.
+No medical electrode cap.
+No headset with dozens of wires.
+No sci-fi neural helmet.
+No product advert composition.
+No fake Emotiv logo or distorted brand text.
+No tiny unreadable sensor labels.
+No text, marks, icons, boxes, or placeholder elements in the empty header band.
+```

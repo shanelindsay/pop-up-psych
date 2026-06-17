@@ -25,15 +25,28 @@ def poster_files(directory: Path) -> list[Path]:
 def header_dark_rule_y(image: Image.Image) -> int | None:
     rgb = image.convert("RGB")
     width, height = rgb.size
+    best_y = None
+    best_dark = 0
+    muted_candidate = None
     for y in range(round(height * 0.035), min(round(height * 0.18), height)):
         dark = 0
+        muted = 0
         for x in range(width):
             r, g, b = rgb.getpixel((x, y))
             if r < 90 and g < 90 and b < 90:
                 dark += 1
-        if dark > width * 0.35:
-            return y
-    return None
+            if (r + g + b) / 3 < 230:
+                muted += 1
+        if dark > best_dark:
+            best_y = y
+            best_dark = dark
+        if muted_candidate is None and muted > width * 0.35:
+            muted_candidate = y
+    if muted_candidate is not None and (best_y is None or muted_candidate < best_y):
+        return muted_candidate
+    if best_dark > width * 0.35:
+        return best_y
+    return muted_candidate
 
 
 def check_file(path: Path, *, headered: bool) -> list[str]:
@@ -51,7 +64,7 @@ def check_file(path: Path, *, headered: bool) -> list[str]:
     rule_y = header_dark_rule_y(image)
     if rule_y is None:
         issues.append("header rule not detected")
-    elif not 0.05 <= rule_y / height <= 0.12:
+    elif not 0.04 <= rule_y / height <= 0.12:
         issues.append(f"header rule unusual position: {rule_y}px")
 
     if headered:

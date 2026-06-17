@@ -17,6 +17,7 @@ CANONICAL_POSTERS = [
     "corsi-block-tapping-task.png",
     "hollow-face-illusion.png",
     "hybrid-image-illusion.png",
+    "live-eeg-brain-signals.png",
     "mcgurk-effect.png",
     "reaction-catch-challenge.png",
     "rubber-hand-illusion.png",

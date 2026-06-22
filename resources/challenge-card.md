@@ -12,7 +12,7 @@ After the brushing phase, circle how strongly the rubber hand felt like it belon
 
 ## Stroop Effect
 
-Time each list in seconds. Record the congruent list first, then the incongruent list.
+Time each list in seconds.
 
 | Condition | Time (seconds) |
 |---|---:|

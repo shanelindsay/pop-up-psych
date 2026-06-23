@@ -2,7 +2,7 @@
 
 **Name:** _______________________
 
-Fill in the activities you try. You do not need to complete every station.
+Fill in the activities you try. It is fine if you do not have time to complete every station.
 
 ---
 
@@ -62,7 +62,8 @@ Move the loop from start to finish. Touches and buzzes add a penalty.
 
 | Kit | Raw time | Buzzes | Adjusted score |
 |---|---:|---:|---:|
-| Brown / White | ______ s | ______ | ______ |
+| Brown | ______ s | ______ | ______ |
+| White | ______ s | ______ | ______ |
 
 **Adjusted score = raw time + buzzes**
 
@@ -74,11 +75,11 @@ Lower score = better.
 
 Choose a puzzle size. Count every disc move.
 
-| Discs | Minimum moves | Your moves | Solved? |
-|---:|---:|---:|---|
-| 3 | 7 | ______ | yes / no |
-| 4 | 15 | ______ | yes / no |
-| 5 | 31 | ______ | yes / no |
+| Discs | Minimum moves | Your moves |
+|---:|---:|---:|
+| 3 | 7 | ______ |
+| 4 | 15 | ______ |
+| 5 | 31 | ______ |
 
 ---
 
@@ -89,15 +90,3 @@ Watch the block sequence, then repeat it in the same order.
 **Longest sequence repeated correctly:** ______ blocks
 
 This is your **Corsi span**.
-
----
-
-## Final Challenge
-
-Which activity surprised you most?
-
-____________________________________________________
-
-Why?
-
-____________________________________________________

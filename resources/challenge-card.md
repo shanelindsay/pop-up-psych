@@ -1,69 +1,103 @@
 # University of Hull Pop-Up Psychology Challenge Card
 
+**Name:** _______________________
+
+Fill in the activities you try. You do not need to complete every station.
+
+---
+
 ## Rubber Hand Illusion
 
 After the brushing phase, circle how strongly the rubber hand felt like it belonged to you.
 
-| Statement | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|---|---|---|---|---|---|---|---|
-| It felt like the rubber hand was my hand. | | | | | | | |
+**It felt like the rubber hand was my hand.**
 
-1 = not at all. 7 = very strongly.
+1    2    3    4    5    6    7
+
+1 = not at all    7 = very strongly
+
+---
 
 ## Stroop Effect
 
 Time each list in seconds.
 
-| Condition | Time (seconds) |
+| Condition | Time |
 |---|---:|
-| Congruent | |
-| Incongruent | |
-| Difference | |
+| Congruent list | ______ s |
+| Incongruent list | ______ s |
+| Stroop cost | ______ s |
 
-Difference = incongruent time minus congruent time.
+**Stroop cost = incongruent time - congruent time**
+
+---
 
 ## Reaction Catch Challenge
 
-Catch as many falling pegs as you can. Record the score out of 6 and circle the difficulty level used.
+Catch as many falling pegs as you can. Use the same difficulty level for both conditions.
 
-| Condition | Pegs caught out of 6 | Difficulty level |
-|---|---:|---|
-| Normal attention | | 1 / 2 / 3 |
-| Divided attention | | 1 / 2 / 3 |
+**Difficulty level used:** 1 / 2 / 3
 
-## Upside-Down or Prism Goggles
+| Condition | Pegs caught out of 6 |
+|---|---:|
+| Normal attention | ______ / 6 |
+| Divided attention | ______ / 6 |
+| Attention cost | ______ |
 
-Try to touch the target while wearing the goggles. Count how many goes it takes before you can touch the target.
+**Attention cost = normal score - divided attention score**
 
-Goes before you could touch the target: ______
+---
+
+## Upside-Down / Prism Goggles
+
+Try to touch the target while wearing the goggles.
+
+**Number of goes before first successful touch:** ______
+
+---
 
 ## Buzz Wire Task
 
-Move the loop from one end of the wire to the other. Record time and touches for each buzz wire kit.
+Move the loop from start to finish. Touches and buzzes add a penalty.
 
-Add a 1 second penalty for every touch or buzz.
-
-| Buzz wire | Raw time (seconds) | Touches / buzzes | Adjusted score |
+| Kit | Raw time | Buzzes | Adjusted score |
 |---|---:|---:|---:|
-| Brown kit | | | |
-| White kit | | | |
+| Brown / White | ______ s | ______ | ______ |
 
-Adjusted score = raw time + touches. Lower is better.
+**Adjusted score = raw time + buzzes**
+
+Lower score = better.
+
+---
 
 ## Tower of Hanoi
 
-Choose a puzzle size and count every disk move. Compare your moves with the minimum possible moves.
+Choose a puzzle size. Count every disc move.
 
-| Number of disks | Minimum moves | Your moves | Solved? |
+| Discs | Minimum moves | Your moves | Solved? |
 |---:|---:|---:|---|
-| 3 | 7 | | yes / no |
-| 4 | 15 | | yes / no |
-| 5 | 31 | | yes / no |
+| 3 | 7 | ______ | yes / no |
+| 4 | 15 | ______ | yes / no |
+| 5 | 31 | ______ | yes / no |
+
+---
 
 ## Corsi Block-Tapping Task
 
-Watch the block sequence, then repeat it in the same order. Record the longest sequence you repeated correctly.
+Watch the block sequence, then repeat it in the same order.
 
-Longest sequence repeated correctly: ______ blocks
+**Longest sequence repeated correctly:** ______ blocks
 
-Your Corsi span is the longest sequence length repeated correctly.
+This is your **Corsi span**.
+
+---
+
+## Final Challenge
+
+Which activity surprised you most?
+
+____________________________________________________
+
+Why?
+
+____________________________________________________

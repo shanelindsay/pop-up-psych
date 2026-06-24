@@ -58,14 +58,14 @@ Try to touch the target while wearing the goggles.
 
 ## Buzz Wire Task
 
-Move the loop from start to finish. Touches and buzzes add a penalty.
+Move the loop from start to finish. Each touch or buzz adds a 1 second penalty.
 
 | Kit | Raw time | Buzzes | Adjusted score |
 |---|---:|---:|---:|
 | Brown | ______ s | ______ | ______ |
 | White | ______ s | ______ | ______ |
 
-**Adjusted score = raw time + buzzes**
+**Adjusted score = raw time + buzzes in seconds**
 
 Lower score = better.
 
